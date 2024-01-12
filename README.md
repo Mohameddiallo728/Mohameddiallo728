@@ -2,34 +2,34 @@
 
 I'm Mohamed DIALLO, a passionate Data Scientist and Full-stack Developer. Here's a bit about me:
 
-- 📊 In Data Science, I excel in:
+📊 In Data Science, I excel in:
   - 🧠 Analytics and problem-solving
   - 📊 Data visualization
   - 🔍 Exploratory Data Analysis using Jupyter Notebooks
 
-- 🌐 As a Full-stack Developer, my expertise includes:
+🌐 As a Full-stack Developer, my expertise includes:
   - ☕ Java
   - 🐍 Python
   - 🔍 TypeScript
   - 🌱 Spring Boot
   - ⚛️ ReactJS
 
-- 🤖 Automation:
+🤖 Automation:
   - 🤖 GitLab Actions for CI/CD
   - ⚙️ Task automation for testing and deployment
 
-- 📄 Documentation:
+📄 Documentation:
   - 📝 Clear and concise documentation
   - 📘 README creation for projects
 
-- 🎨 Styling and Themes:
+🎨 Styling and Themes:
   - 🎨 GitHub repository theming
   - 🧼 Consistent code styling practices
 
-- 🏆 GitHub Contributions:
+🏆 GitHub Contributions:
   - 🌐 Open-source contributions
 
-- 🚧 Always learning:
+🚧 Always learning:
   - 🔍 Committed to staying updated with industry trends
   - 📚 Continuous learning and skill enhancement
 
