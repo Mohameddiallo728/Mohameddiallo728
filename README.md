@@ -3,21 +3,12 @@
 I'm Mohamed DIALLO, a passionate Software Engineer and Data Scientist. Here's a bit about me:
 
 **📊 In Data Science, I excel in:**
-
-🧠 Analytics and 📊 Data visualization
+Analytics and Data visualization
 
 **🌐 As a Full-stack Developer, my expertise includes:**
-🌱 Spring Boot and ⚛️ ReactJS
+Spring Boot and ReactJS
 
-**🏆 GitHub Contributions:**
-
-🌐 Open-source contributions
-
-**🚧 Always learning:**
-
-🔍 Committed to staying updated with industry trends
-
-📚 Continuous learning and skill enhancement
+**🚧 Always learning**
 
 **Feel free to connect with me!**
 
