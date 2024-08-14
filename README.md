@@ -2,6 +2,13 @@
 
 I'm Mohamed DIALLO, a passionate Software Engineer and Data Scientist. Here's a bit about me:
 
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![Django](https://img.shields.io/badge/Django-2BA977?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)](https://powerbi.microsoft.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-F1F1F1?style=for-the-badge&logo=mysql&logoColor=F29111)](https://www.mysql.com/)
+
 **📊 In Data Science, I excel in:**
 Analytics and Data visualization
 
@@ -12,13 +19,6 @@ Spring Boot and ReactJS
 
 **Feel free to connect with me!**
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed728)
+[![Instagram](https://img.shields.io/badge/Instagram-%23C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_medi728/)
+[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohameddiallo728@gmail.com)
