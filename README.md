@@ -1,6 +1,5 @@
 # Hi there 👋
-
-I'm Mohamed DIALLO, a passionate Software Engineer and Data Scientist. Here's a bit about me:
+I'm Mohamed, a passionate Web Developer with expertise in both backend and frontend development, and a solid background in Data Science, Data Analysis, and AI. Welcome to my GitHub! As stack, I use :
 
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
@@ -8,12 +7,6 @@ I'm Mohamed DIALLO, a passionate Software Engineer and Data Scientist. Here's a 
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)](https://powerbi.microsoft.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-F1F1F1?style=for-the-badge&logo=mysql&logoColor=F29111)](https://www.mysql.com/)
-
-**📊 In Data Science, I excel in:**
-Analytics and Data visualization
-
-**🌐 As a Full-stack Developer, my expertise includes:**
-Spring Boot and ReactJS
 
 **🚧 Always learning**
 
