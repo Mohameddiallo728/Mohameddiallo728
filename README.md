@@ -15,5 +15,4 @@ I'm Mohamed, a passionate Web Developer with expertise in both backend and front
 **Feel free to connect with me!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed728)
-[![Instagram](https://img.shields.io/badge/Instagram-%23C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_medi728/)
 [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohameddiallo728@gmail.com)
